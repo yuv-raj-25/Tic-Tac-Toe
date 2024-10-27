@@ -1,3 +1,0 @@
-const Gamestate = {
-    playerX
-}

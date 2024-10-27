@@ -1,1 +1,0 @@
-function tic tac 
